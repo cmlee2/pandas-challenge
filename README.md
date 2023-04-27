@@ -14,4 +14,5 @@ The purpose of tihs project was to manipulate Pandas DataFrames to analyze schoo
     - Scores by School Type
 
 Assistance was gathered from AskBCS with creating a list of school types:
+
     - school_types = school_data.set_index('school_name')['type']
